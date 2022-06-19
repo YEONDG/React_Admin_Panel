@@ -46,6 +46,7 @@ const Sidebar = () => {
             <CreditCardIcon />
             <span>Orders</span>
           </li>
+
           <li>
             <LocalShippingIcon />
             <span>Delivery</span>
